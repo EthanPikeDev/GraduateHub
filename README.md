@@ -12,6 +12,8 @@ The users can the create posts, interact with other posts, and like and unlike p
 # Demo:
 ![DemoGIF](https://i.imgur.com/VwQIi1N.gif)
 
+[Live Preview](https://ethangraduatehub.herokuapp.com/)
+
 # How to use the app:
 
 Upon loading the website you will be put on the landing page. There you can sign up or login.
